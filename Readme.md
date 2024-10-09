@@ -29,11 +29,6 @@ images: This directory holds images used on the webpage.
 How to Contribute
 We welcome contributions to the E-root project. If you would like to contribute to the webpage, research, or add relevant resources, contact us:
 
-Contact
-For inquiries or further information about the E-root project, you can reach out to:
-
-s.rao@fz-juelich.de
-
 Acknowledgments
 We would like to express our gratitude to FNRS Belgium for funding the E-root project and supporting our research.
 
